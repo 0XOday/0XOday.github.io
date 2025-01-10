@@ -1,7 +1,9 @@
 body {background-color: #5e5c64;}
 img {
-    border-radius: 50%;
     position: absolute;
     bottom: 100px;
     right: 100px;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
 }
