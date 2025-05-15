@@ -6,8 +6,8 @@ body {background-color: #5e5c64;}
 
 img {
     position: absolute;
-    top: 100px;
-    left: 100px;
+    top: 50px;
+    left: 50px;
     width: 200px;
     height: 200px;
     border-radius: 50%;
