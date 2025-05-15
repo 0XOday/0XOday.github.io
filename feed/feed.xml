@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<title>Ramblings of a cyberpunk. Update me.</title>
+	<title>Ramblings of a cyberpunk.</title>
 	<subtitle>Subtitle. Update me.</subtitle>
 	
 	<link href="https://oathbreaker.blog/feed/feed.xml" rel="self"/>
